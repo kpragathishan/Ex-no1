@@ -62,7 +62,7 @@ END
 
 #### Manual Calculations
 
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7d6dcec3-7906-4b97-b2f7-1fc0b5677c3e" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/62ba1a4c-b9f2-41fd-8b24-561078beeddf" />
 
 
 ---
@@ -116,7 +116,7 @@ END
 
 #### Manual Calculations
 
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/6ffbf714-325b-41be-b0f6-5cbdd342b8c3" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/514765fc-e844-419a-804d-2c1f5733bca6" />
 
 
 ---
@@ -168,7 +168,8 @@ END
 
 #### Manual Calculations
 
-<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/fc0667a4-87bd-495d-9a47-8343ab562bf6" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/55b6b73e-e7b8-4508-b83e-05f5ff69fadc" />
+
 
 
 ---
@@ -216,7 +217,8 @@ END
 
 #### Manual Calculations
 
-<img width="635" height="427" alt="image" src="https://github.com/user-attachments/assets/347006f9-1393-4178-9c55-8d85b6fbdf04" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/0f3b5db8-377e-43cf-b452-dde262b00afe" />
+
 
 
 ---
